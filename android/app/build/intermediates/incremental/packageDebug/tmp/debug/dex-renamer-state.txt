@@ -1,0 +1,4 @@
+#Wed Dec 18 22:28:53 BDT 2019
+base.0=/home/shanto/Desktop/stuff/rnmap/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
